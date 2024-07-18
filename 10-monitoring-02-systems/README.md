@@ -53,6 +53,13 @@ Push модель:
     - Zabbix
     - VictoriaMetrics
     - Nagios
+
+### Ответ:
+
+Push модель:      VictoriaMetrics, TICK
+Pull модель:      Nagios, Prometheus
+Гибридная модель: Zabbix
+
 #
 7. Склонируйте себе [репозиторий](https://github.com/influxdata/sandbox/tree/master) и запустите TICK-стэк, 
 используя технологии docker и docker-compose.
