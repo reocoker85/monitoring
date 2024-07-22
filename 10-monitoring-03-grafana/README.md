@@ -69,7 +69,7 @@ promql-запросы для выдачи этих метрик:
 node_load1
 node_load5
 node_load15
-``
+```
 - количество свободной оперативной памяти:
 ```node_memory_MemFree_bytes```
 
